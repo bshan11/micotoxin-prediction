@@ -28,6 +28,21 @@ pip install numpy pandas scikit-learn xgboost matplotlib seaborn jupyterlab
 
 ---
 
+## **Repository Structure**
+This repository contains all necessary files for training and evaluating machine learning models for predicting mycotoxin (DON concentration) in corn using spectral data.
+
+### **Notebooks**
+There are two Jupyter notebooks used for different preprocessing methods:
+1. **Notebook 1:** Uses **log transformation** for handling target variable skewness.
+2. **Notebook 2:** Uses **IQR-based clipping method** for handling extreme values.
+
+### **Reports**
+Each notebook has a corresponding report summarizing the results:
+1. **Report1:** Corresponding to the **log transformation notebook**.
+2. **Report2:** Corresponding to the **clipping method notebook**.
+
+Both reports are available in **PDF format** as well.
+
 ## **2. Files in the Repository**
 ```
 📄 README.md              # Instructions and setup guide
@@ -49,5 +64,11 @@ pip install numpy pandas scikit-learn xgboost matplotlib seaborn jupyterlab
 For any issues, please open an issue in the repository or contact the author.
 
 ---
+
+
+
+
+
+
 
 
