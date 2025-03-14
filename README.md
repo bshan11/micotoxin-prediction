@@ -34,6 +34,8 @@ pip install numpy pandas scikit-learn xgboost matplotlib seaborn jupyterlab
 📄 requirements.txt       # List of dependencies
 📄 TASK-ML-INTERN.csv     # Dataset file
 📄 mycotoxin_prediction.ipynb  # Main analysis notebook
+📄 Report.ipynb           # Notebook containing final report
+📄 report.pdf             # PDF version of the final report
 ```
 
 ---
@@ -46,5 +48,3 @@ pip install numpy pandas scikit-learn xgboost matplotlib seaborn jupyterlab
 For any issues, please open an issue in the repository or contact the author.
 
 ---
-
-
